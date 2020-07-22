@@ -1,4 +1,5 @@
-# CAPSTONE PROJECT <div align=”center”>   
+<p align="center"><h1> CAPSTONE PROJECT</h1><p align="center">
+  
 ## Cricket Dashboard and World Cup Prediction
 
 ![](/data/logo.jpg)
