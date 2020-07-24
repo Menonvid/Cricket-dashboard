@@ -14,3 +14,4 @@ __3. Wickets/Economy for Bowlers__
 __4. Which players have been doing well in the recent time looking at the Timeseries report.__  
 
 ## Dashboard App Layout
+![]("/data/Layout.png")
