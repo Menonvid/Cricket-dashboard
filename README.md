@@ -24,7 +24,7 @@ __Also, with the help of Machine Learning:__
 
 ![](data/Batsman.PNG)
 
-![](data/Bowler.PNG)
+![](data/Bowlers.PNG)
 
 ## Findings:  
 Using Random Forest-  
